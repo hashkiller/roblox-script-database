@@ -1,0 +1,6 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/p4ihNBSw", true))();
+loadstring(game:HttpGet("https://pastebin.com/raw/qvWPtFTB"))();
+loadstring(game:HttpGet(("https://pastebin.com/raw/p4ihNBSw"),true))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/shlexware/Orion/main/source")))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/Mining-Simulator-2/main/ms2fakehatcher.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/13"))();

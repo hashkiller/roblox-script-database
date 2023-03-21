@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KeoneGithub/KeoneGithub/main/LoomianCandy"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Introvert1337/Releases/master/LoomianLegacyX.lua"))();

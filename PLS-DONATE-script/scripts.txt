@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://hypernite.xyz/Scripts/Ukraine.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub"))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/o5u3/PLS-Donate/main/Fake-Donate.lua")))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/tzechco/roblox-scripts/main/PLS%20DONATE/autofarm.lua"),true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NocturneMoDz/PLEASE-DONATE-NEW-GUI-/main/METAB"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NocturneMoDz/PLS-DONATE/main/METAB"))() -- Rainbow text loadstring(game:HttpGet("https://pastebin.com/ddhgpkky"))() -- Robux boost loadstring(game:HttpGet("https://pastebin.com/raw/MWr76Nm2"))() -- Karaoke loadstring(game:HttpGet("https://pastebin.com/raw/UuDMJtZy"))() -- Find rich server loadstring(game:HttpGet("https://pastebin.com/raw/CKPD54Qw"))() -- Emote loadstring(game:HttpGet("https://pastebin.com/raw/MsyTiEWT"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/master/photo"))();

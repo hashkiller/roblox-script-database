@@ -1,0 +1,10 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Herrtt/Phantom-Forces-Cheat/main/Main.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BigMaX-PF/PhantomNuker/main/Phantom%20Nuker", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KuriWasTaken/PhantomMonkey/main/PhantomMonkey.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KuriWasTaken/MonkeHub/main/Loader.lua"))();
+loadstring(game:HttpGet(("https://pastebin.com/raw/QM211VHT"),true))()loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteso/robloxscripts/main/Key.lua",true))();
+loadstring(game:HttpGet(("https://pastebin.com/raw/8KHFpex7"),true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Spoorloos/scripts/main/silent_aim_v2.lua"))();
+loadstring(game:HttpGet("https://solarishub.net/script.lua",true))();

@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MGCactus/myscripts/main/Noob%20Tycoon%20Army.lua"))();

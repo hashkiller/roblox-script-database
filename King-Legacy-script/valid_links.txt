@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sannin9000/scripts/main/kinglegacy.lua"))();
+loadstring(game:HttpGet("http://riverhub.xyz/" .. tostring(game.PlaceId) .. ".lua"))()end) Noob Hub:loadstring(game:HttpGet("https://raw.githubusercontent.com/SHAREHACK/script/main/kl"))() ScarFace:loadstring(game:HttpGet("https://raw.githubusercontent.com/PainfulDestroyer/Roblox/main/King%20Legacy"))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/AltsegoD/script/master/KingPiece.lua")))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/XenonKL"))();

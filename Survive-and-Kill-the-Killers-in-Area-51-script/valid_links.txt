@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RageRelic/Scripts/scripts/Genhub_survive_and_kill", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ghostmode65/STK-Bo2/master/STK-Menus/v7/STv7-Engine.txt"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ghostmode65/STK-Bo2/master/STK-Menus/v5/STKv5.txt"))();

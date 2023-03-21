@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/MillionaireEmpireTycoon.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MAARAKAM/MAARAKAMHUB/main/milempiretycoon.lua"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/JmXrDkMh", true))();

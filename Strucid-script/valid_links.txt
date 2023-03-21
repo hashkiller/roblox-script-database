@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/10x00/Public-Cracks/main/Apollo%20Hub%20Crack.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/LuaProjects/main/NeptuneHook.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Spoorloos/scripts/main/curve_aimbot.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AstroPublic/Astro.Public/main/astro.loader", true))();

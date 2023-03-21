@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/synolope/meepcracked/main/script.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/synolope/meepcracked/main/ui-engine.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/synolope/mpcity/main/loader.lua",true))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/kilav3rm/Scripts/main/MeepCity"),true))();
+loadstring(game:HttpGet("https://pastebin.com/URvtpeYn", true))();

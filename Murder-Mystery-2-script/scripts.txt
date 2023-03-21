@@ -1,0 +1,10 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Doggo-cryto/EclipseMM2/master/Script", true))();
+loadstring(game:HttpGet("https://gist.githubusercontent.com/OtarDevv/37923c22312a786f3ac521692b412c41/raw/747834720d202a101630d8f27174dc14494970fe/Murder%2520Mystery%25202"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))();
+loadstring(game:HttpGet("https://jack1214060.xyz/jayhub",true))();
+loadstring(game:HttpGet(url))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/%s/%s/main/%s"):format(owner,branch,file..".lua")))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/Murder%20Mystery%202.lua"))();
+loadstring(game:HttpGet("https://scripts.luawl.com/Main/Scourge.lua"))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script"),true))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua"),true))();
