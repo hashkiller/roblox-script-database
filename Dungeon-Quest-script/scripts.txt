@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Introvert1337/SpooderQuestRewritten/main/TextScript.lua"))();
+loadstring(game:HttpGet(("https://pastebin.com/raw/F5vSFHZt"),true))();
+loadstring(game:HttpGet("https://gist.githubusercontent.com/hngamingroblox/659adbebad6a9b3a07527e5f7e446d66/raw"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/F5vSFHZt", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Solx69/Shit-Boy-Hub-Main/main/Master.lua"))();

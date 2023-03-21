@@ -1,0 +1,14 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dark-Scripts/Arsenal-Scripts/main/idkV2"))();
+loadstring(game:HttpGet("https://gangofgang.gog-best.repl.co/aimhook/hook.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/slightten/ouwHub/main/Arsenal"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iqvf/script/main/arsenalautoexecfarmrealnovirus100%25windows11download_yourfileisreadytodownloadexe.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KeoneGithub/KeoneGithub/main/Arsenal",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZinityDrops/OwlHubLink/master/OwlHubBack.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NougatBitz/ArsenalHaxx/master/Script"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub"))();
+loadstring(game:HttpGet(("https://darkhub.xyz/remote-script.lua"), true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HonestlyDex/DexHub/main/V3.lua"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/1Gp9c57U"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NougatBitz/DuckHub/master/Main.lua"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/W0HC8XvW"))();

@@ -1,0 +1,9 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CheeseOnGithub/scripts/main/bb2019.lua",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PopCatscripts/Booga-Booga-reborn-script-new/main/Booga%20Booga%20Reborn%20script%20new"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/NPc9MFnL", true))()end) OnyxHUB.MouseButton1Down:connect(function()loadstring(game:HttpGet("https://pastebin.com/raw/T4CMx3vi", true))()end) BoogaBitchV2.MouseButton1Down:connect(function()loadstring(game:HttpGet("https://pastebin.com/raw/yigKxDrK", true))()end) craftgui.MouseButton1Down:connect(function()loadstring(game:HttpGet("https//https://pastebin.com/raw/spgZDKr2", true))()end) BoogaFucker.MouseButton1Down:connect(function()loadstring(game:HttpGet("https://pastebin.com/raw/ML0bP1A7", true))()end) FEKILL.MouseButton1Down:connect(function()loadstring(game:HttpGet("https://pastebin.com/raw/43u4BPx8", true))()end) aimbot.MouseButton1Down:connect(function()loadstring(game:HttpGet("https://pastebin.com/raw/KJzGu42u", true))()end) ADMIN.MouseButton1Down:connect(function()loadstring(game:HttpGet("https://pastebin.com/raw/nLGnSxt1", true))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/HRT9014/booga/main/b"), true))();
+loadstring(game:HttpGet("https://pastebin.com/raw/seUgQP2R"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/8zh7FiHv"))();
+loadstring(game:HttpGet(("https://pastebin.com/raw/2eYepag7"),true))();
+loadstring(game:HttpGet("https://pastebin.com/raw/da1ME3cZ"))();

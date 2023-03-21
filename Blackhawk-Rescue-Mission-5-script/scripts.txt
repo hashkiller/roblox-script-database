@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/H3BKnf9i", true))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/bananabruhwhat101/ghostclientmain/main/ghostclienthub.lua"),true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZinityDrops/BRM5AutoFarm/main/autofarm.lua"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/SkFRVqY1", true))();

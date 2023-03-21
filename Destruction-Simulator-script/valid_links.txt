@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/yynCzSLV"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingResources/GamingResources-Script-Hub/main/Key%20System", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FadeRemix/RND-Games/main/DestructionSim.lua"))();

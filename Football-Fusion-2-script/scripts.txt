@@ -1,0 +1,6 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/94bSvnqL"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/new1football/main/ff2OPui"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DreadzHub2/Scripts/main/Protected%20(4).lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1x2x3/Kanye/main/loadstring.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DignityDC/FusionFootballGUI/main/FF2GUI"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/anime-squad11/main/anime%20squad%20sim88"))();

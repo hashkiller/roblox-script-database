@@ -1,0 +1,15 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/migu-star/Scripts/main/Paintball.lua"))();
+loadstring(game:HttpGet("https://www.pastebin.com/raw/PuaaGKsT"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/radjahfromdiscord/iNEXT/main/source"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/paintball"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SiLeNSwOrD/OwlHub/master/OwlHub.txt"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WetCheezit/Releases/main/Big-Paintball/KillAll.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Singularity5490/bigpaintball/main/unlockall.lua"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/BdBcr0zs", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/The3Bakers4565/Spicy-Bagel/main/Other/Big_Paintball/Kill_All.lua"))();
+loadstring(game:HttpGet("https://hastebin.com/raw/uqemololiq"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0xd5f/CERBERUS/main/CERBERUS.lua", true))();
+loadstring(game:HttpGet("https://dylz.000webhostapp.com/DylZHubNew/loader"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/GVvyGhpx"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();

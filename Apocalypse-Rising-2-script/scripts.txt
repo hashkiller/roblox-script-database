@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JackHiggly/FemWare/main/Apocalypse%20Rising%202", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitzoon/Roblox-Scripts/main/Apoc_Riser_2.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JackHiggly/RobloxThings/main/FemWare0", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notclosure/apoc2/main/main.lua"))();

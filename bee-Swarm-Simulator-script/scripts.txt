@@ -1,0 +1,7 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/AltsegoD/script/master/BeeSwarmSimulator.lua")))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/not-xen0n/Lua/main/bsstrainer.lua"))();
+loadstring(game:HttpGet("https://s.kometa.ga/kometa.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitylua/Luascripts/main/KJFsdEj8sXrja.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrMcHir/COCONUT-HUB/main/Main.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua", true))();

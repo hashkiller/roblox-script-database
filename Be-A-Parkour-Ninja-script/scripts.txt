@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Min1273/n-to/main/README.md"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NooVster/NOOVHUB/main/Source"))();

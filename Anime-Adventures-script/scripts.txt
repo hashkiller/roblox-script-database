@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArponAG/Scripts/main/AnimeAdventures.lua"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/UHmhYr16"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrapstarKSSKSKSKKS/Main/main/Anime%20Adventures.lua"))();

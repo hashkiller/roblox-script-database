@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cxetive/OptixHub/main/loader.lua"))()2). loadstring(game:HttpGet("https://raw.githubusercontent.com/bunnynwy/games/main/animesouls"))()3). loadstring(game:HttpGet("https://raw.githubusercontent.com/KodaLINEN/AnimeSoulsSimulator/main/Main"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cxetive/OptixHub/main/loader.lua"))();

@@ -1,0 +1,6 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skrapisismyscript/Solo_Hub/main/Loader"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SleeksScripts/Sharkbite-2-script/main/Script"))()  Anti afk script for grinding: loadstring(game:HttpGet("https://pastebin.com/raw/XXPTpkcZ", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/samuelrblx/Bruhnhe/main/Hub"))() end) // if that didnt work use the one below (make sure to delete the one above and get rid of the slashes in the one below //) // pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/samuelrblx/Bruhnhe/main/Hub"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Sharkbite/main/bite2"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/samuelrblx/Bruhnhe/main/Hub"))();

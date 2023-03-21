@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShrimpsHub/ShrimpsHub/main/ShrimpsHub"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ephide/Fling-Things-and-People/main/no"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexrandom/Lua/main/FlingThingsAndPeople"))();

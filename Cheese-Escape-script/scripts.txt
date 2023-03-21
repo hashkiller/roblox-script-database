@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TweedLeak/Scripts/main/Cheese-Escape.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/poisklmpoikslms901i234/ScriptCheesePremium/main/.Lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/senpaigm/Cat-Hub/main/Cheese%20Escape.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))();

